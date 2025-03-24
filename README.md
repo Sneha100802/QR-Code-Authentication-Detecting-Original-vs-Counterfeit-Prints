@@ -15,4 +15,5 @@ The dataset consists of QR code images with embedded copy detection patterns:
 - **Second prints** – Counterfeits created by scanning and reprinting first prints.  
 
 ---
-
+## Dataset link
+https://drive.google.com/drive/folders/1pPeWT1zntlKXnuY_yHmpI-ZzKl4nLgQS?usp=drive_link
